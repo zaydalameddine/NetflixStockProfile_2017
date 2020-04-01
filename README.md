@@ -10,6 +10,8 @@ A comparison of the Netflix Stock price vs the Dow Jones Industrial Average pric
 
 Note: a comparison is being drawn to the Dow Jones Industrial Average in order to compare Netlfix to the larger stock market
 
+To complete this project I will employing the use of pandas, matplotlib, and seaborn
+
 This data has been taken from Yahoo Finance 
 https://finance.yahoo.com/quote/NFLX?p=NFLX&.tsrc=fin-srch
 
